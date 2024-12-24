@@ -6,6 +6,6 @@
 
 def func(a):
     print(a)
-    Hello guys
+    print("This is new commit")
 func(1)
 
