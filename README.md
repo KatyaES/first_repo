@@ -7,5 +7,6 @@
 def func(a):
     print(a)
     print("This is new commit")
+    print('01')
 func(1)
 
